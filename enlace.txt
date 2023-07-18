@@ -1,0 +1,5 @@
+Se muestra el enlace correspondiente de la página web de la clonación de Google:
+
+https://irazu-sg13.github.io/Google_Clon/
+
+Donde se presenta al lector/lectora el resultado del código en HTML y CSS.
